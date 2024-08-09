@@ -1,4 +1,3 @@
-s.herokuapp.com/?user=neel-xyt&" alt="neel-xyt" /></p>
 <h1 align="center">Hi 👋, I'm Rajdeep saha (Neel)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
