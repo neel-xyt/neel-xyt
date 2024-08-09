@@ -1,3 +1,4 @@
+s.herokuapp.com/?user=neel-xyt&" alt="neel-xyt" /></p>
 <h1 align="center">Hi 👋, I'm Rajdeep saha (Neel)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -9,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/neelsaha822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neelsaha822" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajdeep-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep-saha" height="30" width="40" /></a>
-<a href="https://instagram.com/neel-xyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neel-xyt" height="30" width="40" /></a>
+<a href="https://instagram.com/neel_xyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neel_xyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
